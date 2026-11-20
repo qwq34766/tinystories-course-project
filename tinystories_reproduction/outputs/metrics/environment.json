@@ -1,0 +1,13 @@
+{
+  "python": "3.13.13",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "packages": {
+    "torch": "2.11.0+cu128",
+    "transformers": "5.20.2",
+    "datasets": "5.1.0",
+    "rouge-score": "0.1.2",
+    "pandas": "3.0.5",
+    "matplotlib": "3.11.0"
+  }
+}

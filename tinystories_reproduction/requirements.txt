@@ -1,0 +1,11 @@
+torch>=2.2
+transformers>=4.40
+datasets>=2.18
+tokenizers>=0.19
+rouge-score>=0.1.2
+matplotlib>=3.8
+pandas>=2.0
+pyyaml>=6.0
+tqdm>=4.66
+safetensors>=0.4
+accelerate>=1.1.0

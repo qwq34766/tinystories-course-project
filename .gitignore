@@ -1,0 +1,29 @@
+﻿# Python 环境和缓存
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 数据集和预处理缓存
+TinyStories*.txt
+**/data/
+**/data_smoke/
+**/.cache/
+
+# 模型权重和 checkpoint
+**/checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+
+# 密钥和本地配置
+.env
+.env.*
+!.env.example
+
+# 临时文件
+~$*
+*.tmp

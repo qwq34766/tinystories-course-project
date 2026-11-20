@@ -1,0 +1,12 @@
+,grammar,grammar,creativity,creativity,consistency,consistency
+,mean,count,mean,count,mean,count
+source_label,,,,,,
+data_scale_0.01,5.0,49,4.061224489795919,49,4.081632653061225,49
+data_scale_0.1,5.0,50,4.0,50,4.0,50
+data_scale_1,5.0,46,4.043478260869565,46,4.043478260869565,46
+experiment1_1m,5.0,3,4.0,3,4.0,3
+experiment1_3m,5.0,3,4.0,3,4.0,3
+experiment1_8m,5.0,3,4.0,3,4.0,3
+temperature_0,5.0,245,4.706122448979592,245,4.8040816326530615,245
+temperature_0p5,5.0,250,4.008,250,4.008,250
+temperature_1p0,5.0,247,3.9959514170040484,247,4.0,247
